@@ -1,4 +1,4 @@
-## Project Description
+## EcoGuard Project Description
 
 **EcoGuard** is a dynamic web platform designed to enhance engagement with wildlife conservation efforts in South Sudan. The platform aims to bridge the gap between conservation enthusiasts and wildlife attractions, offering a seamless and informative experience for users interested in exploring and supporting local wildlife.
 
@@ -27,7 +27,6 @@ By integrating these features, EcoGuard not only supports wildlife tourism but a
 
 - [EcoGuard](#ecoguard)
   - [Features](#features)
-  - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
@@ -35,7 +34,6 @@ By integrating these features, EcoGuard not only supports wildlife tourism but a
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Links](#links)
 
 ## Prerequisites
 
@@ -62,10 +60,10 @@ To start the application locally, follow these steps:
 
    Ensure you have installed all dependencies. Use the following command to start the server:
 
-   ```bash
+   ```
    npm start
 
-###  Deployment
+## Deployment
 
 Explain how to deploy the application to a hosting service. Include build commands and deployment steps.
 
@@ -78,14 +76,9 @@ To deploy the application to a hosting service:
 
    Generate the production build by running:
 
-   ```bash
+  ```
    npm run build
 
-### Usage
-
-Describe how to use the application and provide guidance on navigating its features.
-
-```markdown
 ## Usage
 
 Once the application is running, you can use the following features:
@@ -94,6 +87,7 @@ Once the application is running, you can use the following features:
 - **About Us Page:** Read about EcoGuard’s mission, values, and impact on wildlife conservation.
 - **Programs Page:** Explore available conservation programs and educational content related to wildlife.
 - **Booking Page:** Schedule and book appointments for visiting zoos and parks.
+
 ## Contributing
 
 We welcome contributions from the community. If you want to contribute to the project, please follow these steps:
@@ -104,11 +98,11 @@ We welcome contributions from the community. If you want to contribute to the pr
 
 2. **Clone Your Fork**
 
-   ```bash
+ 
    git clone https://github.com/yourusername/EcoGuard.git
    cd EcoGuard
 
-## Prerequisites
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -122,20 +116,3 @@ Copyright (c) [2024] [Geu Aguto Garang]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-# License
-
-## License Information
-
-The EcoGuard project is licensed under the [MIT License](https://opensource.org/licenses/MIT). This means you are free to use, modify, and distribute the code as long as you include the original copyright and license notice in any copies or substantial portions of the software.
-
-### License Summary:
-
-- **Permission is hereby granted, free of charge:** To use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions.
-- **The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.**
-- **The software is provided "as is", without warranty of any kind.** The authors are not liable for any claims, damages, or other liabilities arising from the use of the software.
-
-For more details, please refer to the [LICENSE](./LICENSE) file in the repository.
-
