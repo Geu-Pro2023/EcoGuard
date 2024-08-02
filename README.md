@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoGuard
 
 EcoGuard is a web platform designed to facilitate easy access to wildlife conservation adventures in South Sudan. This project provides visitors with information about wildlife, zoos, and parks and allows them to book visits to places like Wau Zoo and Boma National Park.
@@ -40,4 +41,3 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/yourusername/EcoGuard.git
    cd EcoGuard
-
