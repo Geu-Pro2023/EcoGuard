@@ -108,6 +108,7 @@ We welcome contributions from the community. If you want to contribute to the pr
    git clone https://github.com/yourusername/EcoGuard.git
    cd EcoGuard
 
+## Prerequisites
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -124,14 +125,17 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Links
+# License
 
-Include links to related resources and documents.
+## License Information
 
-```markdown
-## Links
+The EcoGuard project is licensed under the [MIT License](https://opensource.org/licenses/MIT). This means you are free to use, modify, and distribute the code as long as you include the original copyright and license notice in any copies or substantial portions of the software.
 
-- [Project Demo](https://geu-pro2023.github.io/EcoGuard/) - Preview the live application.
-- [GitHub Repository](https://github.com/Geu-Pro2023/EcoGuard) - View and download the project source code.
-- [SRS Document](https://docs.google.com/document/d/10J8skM2M13NyRIXxbDwQk8JkKV3oojx6REyl47se1ek/edit?usp=sharing) - Access the Software Requirements Specification document.
+### License Summary:
+
+- **Permission is hereby granted, free of charge:** To use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions.
+- **The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.**
+- **The software is provided "as is", without warranty of any kind.** The authors are not liable for any claims, damages, or other liabilities arising from the use of the software.
+
+For more details, please refer to the [LICENSE](./LICENSE) file in the repository.
 
